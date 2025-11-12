@@ -1,4 +1,4 @@
-This is a basic `.vox` file importer for gamemaker studios. These basic functions let you import a voxel file directly without the need to convert it to a .obj, .vbx, or .vbuff file. It is a bit slow so converting *all* models to vertex buffer files is always going to be faster, but if you have some small voxels this is a quick and easy solution. Plus you can always take the vertex buffer it generates and save them as .vbx files if you wanted to convet them yourself. :)
+This is a basic `.vox` file importer for gamemaker studio. These basic functions let you import a voxel file directly without the need to convert it to a .obj, .vbx, or .vbuff file. It is a bit slow so converting *all* models to vertex buffer files is always going to be faster, but if you have some small voxels this is a quick and easy solution. Plus you can always take the vertex buffer it generates and save them as .vbx files if you wanted to convet them yourself. :)
 
 Here are some examples:
 
