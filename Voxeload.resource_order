@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Example","order":4,"path":"folders/Example.yy",},
+    {"name":"Voxeload","order":2,"path":"folders/Voxeload.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"rm_example","order":1,"path":"rooms/rm_example/rm_example.yy",},
+    {"name":"voxel_delete","order":4,"path":"scripts/voxel_delete/voxel_delete.yy",},
+    {"name":"voxel_submit","order":3,"path":"scripts/voxel_submit/voxel_submit.yy",},
+    {"name":"sh_voxel","order":2,"path":"shaders/sh_voxel/sh_voxel.yy",},
+  ],
+}

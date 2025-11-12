@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"voxel_load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"voxel_load",
+  "parent":{
+    "name":"Voxeload",
+    "path":"folders/Voxeload.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

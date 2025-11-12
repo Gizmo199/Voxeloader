@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_voxel",
+  "name":"sh_voxel",
+  "parent":{
+    "name":"Example",
+    "path":"folders/Example.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

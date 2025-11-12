@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"voxel_delete",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"voxel_delete",
+  "parent":{
+    "name":"Voxeload",
+    "path":"folders/Voxeload.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
